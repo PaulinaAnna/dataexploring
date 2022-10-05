@@ -1,7 +1,7 @@
 create database countires2;
 use countires2;
 
--- data are imported through data importing wizard
+-- data are imported through data importing wizard. Normalisation.
 
 ALTER TABLE cc
 ADD PRIMARY KEY (PK);
@@ -18,7 +18,7 @@ ALTER TABLE pop
 ADD FOREIGN KEY (FK)
 REFERENCES cc (PK);
 
--- the last table I need to normialise myslef 
+-- the last table I need to normialise myslef - file has ISO letter codes but only codes converted to digits workes well in my SQL
 CREATE TABLE covid_pp_1
 SELECT pp.iso_code, pp.continent, pp.location, pp.median_age, pp.excess_mortality_cumulative_per_million, pp.desc_mort, cc.PK
 FROM covid_pp pp
@@ -55,7 +55,7 @@ from hdi);
 -- In orginal table HDI I have data from older years - so there's subqery to use only the latest data
 -- the old table is not dropped - histroic data may be useful when if I want to track changes
 
--- You need to be very careful using functions - first query I wrote give reault "2" or "3" when it found the same result
+
 
 Use countires;
 ALTER TABLE HDI_Q
@@ -73,8 +73,8 @@ max(year)
 from fer)
 group by hdi_q.q;
 
--- on the result we can see big differences in fertility depending on Developement Status - we can seee how huge conflict potencial we have.
--- Addtionally we can see that they bigest dirrefence we have between staus "low -1 " and "medium-2"
+-- on the result we can see big differences in fertility depending on Developement Status - huge potential conflict between well developed conutries with old population and young population in poor countirs
+-- Addtionally we can see that they bigest dirrefence we have between staus "low -1 " and "medium-2". Supporting poorer countries in improving basic living condition can affect its population size.
 
 SELECT fer.CountryN, fer.fertlity_rate, hdi_q.q
 from fer
@@ -84,7 +84,7 @@ WHERE fer.fertlity_rate > 2.2 and fer.year = (select
 max(year)
 from fer) AND hdi_q.q = 4;
 
--- This query find the results with conditions - higest developement countries and fertility rate higher then 2.2 (minium necessary from generation replacement)
+-- This query find the results with conditions - higest developement countries and fertility rate higher then 2.2 (minium necessary from generation replacement). We can see that only 3 developed countries have good indicators.
 
 SELECT cc.sub_region, ROUND(AVG (hdi_q.q),2) as HDI_AVG, ROUND(AVG(fer.fertlity_rate),2) as AVG_FER 
 from cc
