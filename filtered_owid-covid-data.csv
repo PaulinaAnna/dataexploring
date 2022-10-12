@@ -1,0 +1,235 @@
+iso_code,continent,location,date,human_development_index,median_age,excess_mortality_cumulative_per_million,desc_mort
+AFG,Asia,Afghanistan,31/10/2021,0.511,18.6,0,no data
+OWID_AFR,,Africa,31/10/2021,,,0,no data
+ALB,Europe,Albania,31/10/2021,0.795,38,4576.993415,hight mortality
+DZA,Africa,Algeria,31/10/2021,0.748,29.1,0,no data
+AND,Europe,Andorra,31/10/2021,0.868,,0,no data
+AGO,Africa,Angola,31/10/2021,0.581,16.8,0,no data
+AIA,North America,Anguilla,31/10/2021,,,0,no data
+ATG,North America,Antigua and Barbuda,31/10/2021,0.778,32.1,0,no data
+ARG,South America,Argentina,31/10/2021,0.845,31.9,0,no data
+ARM,Asia,Armenia,31/10/2021,0.776,35.7,5627.115812,hight mortality
+ABW,North America,Aruba,31/10/2021,,41.2,0,no data
+OWID_ASI,,Asia,31/10/2021,,,0,no data
+AUS,Oceania,Australia,31/10/2021,0.944,37.9,-556.4789532,mortality is lower
+AUT,Europe,Austria,31/10/2021,0.922,44.4,1271.006136,mortality a little bit higher
+AZE,Asia,Azerbaijan,31/10/2021,0.756,32.4,3370.756183,hight mortality
+BHS,North America,Bahamas,31/10/2021,0.814,34.3,0,no data
+BHR,Asia,Bahrain,31/10/2021,0.852,32.4,0,no data
+BGD,Asia,Bangladesh,31/10/2021,0.632,27.5,0,no data
+BRB,North America,Barbados,31/10/2021,0.814,39.8,0,no data
+BLR,Europe,Belarus,31/10/2021,0.823,40.3,0,no data
+BEL,Europe,Belgium,31/10/2021,0.931,41.8,1496.088403,mortality a little bit higher
+BLZ,North America,Belize,31/10/2021,0.716,25,0,no data
+BEN,Africa,Benin,31/10/2021,0.545,18.8,0,no data
+BMU,North America,Bermuda,31/10/2021,,,0,no data
+BTN,Asia,Bhutan,31/10/2021,0.654,28.6,0,no data
+BOL,South America,Bolivia,31/10/2021,0.718,25.4,4073.950877,hight mortality
+BES,North America,Bonaire Sint Eustatius and Saba,31/10/2021,,,0,no data
+BIH,Europe,Bosnia and Herzegovina,31/10/2021,0.78,42.5,0,no data
+BWA,Africa,Botswana,31/10/2021,0.735,25.8,0,no data
+BRA,South America,Brazil,31/10/2021,0.765,33.5,3136.754551,medium mortality
+VGB,North America,British Virgin Islands,31/10/2021,,,0,no data
+BRN,Asia,Brunei,31/10/2021,0.838,32.4,0,no data
+BGR,Europe,Bulgaria,31/10/2021,0.816,44.7,6597.343205,hight mortality
+BFA,Africa,Burkina Faso,31/10/2021,0.452,17.6,0,no data
+BDI,Africa,Burundi,31/10/2021,0.433,17.5,0,no data
+KHM,Asia,Cambodia,31/10/2021,0.594,25.6,0,no data
+CMR,Africa,Cameroon,31/10/2021,0.563,18.8,0,no data
+CAN,North America,Canada,31/10/2021,0.929,41.4,0,no data
+CPV,Africa,Cape Verde,31/10/2021,0.665,25.7,0,no data
+CYM,North America,Cayman Islands,31/10/2021,,,0,no data
+CAF,Africa,Central African Republic,31/10/2021,0.397,18.3,0,no data
+TCD,Africa,Chad,31/10/2021,0.398,16.7,0,no data
+CHL,South America,Chile,31/10/2021,0.851,35.4,1853.37961,medium mortality
+CHN,Asia,China,31/10/2021,0.761,38.7,0,no data
+COL,South America,Colombia,31/10/2021,0.767,32.2,3089.803989,medium mortality
+COM,Africa,Comoros,31/10/2021,0.554,20.4,0,no data
+COG,Africa,Congo,31/10/2021,0.574,19,0,no data
+COK,Oceania,Cook Islands,31/10/2021,,,0,no data
+CRI,North America,Costa Rica,31/10/2021,0.81,33.6,0,no data
+CIV,Africa,Cote d'Ivoire,31/10/2021,0.538,18.7,0,no data
+HRV,Europe,Croatia,31/10/2021,0.851,44,2890.884756,medium mortality
+CUB,North America,Cuba,31/10/2021,0.783,43.1,0,no data
+CUW,North America,Curacao,31/10/2021,,41.7,0,no data
+CYP,Europe,Cyprus,31/10/2021,0.887,37.3,714.7281544,mortality a little bit higher
+CZE,Europe,Czechia,31/10/2021,0.9,43.3,3151.497316,medium mortality
+COD,Africa,Democratic Republic of Congo,31/10/2021,0.48,17,0,no data
+DNK,Europe,Denmark,31/10/2021,0.94,42.3,-45.63671387,mortality is lower
+DJI,Africa,Djibouti,31/10/2021,0.524,25.4,0,no data
+DMA,North America,Dominica,31/10/2021,0.742,,0,no data
+DOM,North America,Dominican Republic,31/10/2021,0.756,27.6,0,no data
+ECU,South America,Ecuador,31/10/2021,0.759,28.1,3662.436494,hight mortality
+EGY,Africa,Egypt,31/10/2021,0.707,25.3,2490.579002,medium mortality
+SLV,North America,El Salvador,31/10/2021,0.673,27.6,0,no data
+GNQ,Africa,Equatorial Guinea,31/10/2021,0.592,22.4,0,no data
+ERI,Africa,Eritrea,31/10/2021,0.459,19.3,0,no data
+EST,Europe,Estonia,31/10/2021,0.892,42.7,1773.786059,mortality a little bit higher
+SWZ,Africa,Eswatini,31/10/2021,0.611,21.5,0,no data
+ETH,Africa,Ethiopia,31/10/2021,0.485,19.8,0,no data
+OWID_EUR,,Europe,31/10/2021,,,0,no data
+OWID_EUN,,European Union,31/10/2021,,,0,no data
+FRO,Europe,Faeroe Islands,31/10/2021,,,-1826.595723,mortality is lower
+FLK,South America,Falkland Islands,31/10/2021,,,0,no data
+FJI,Oceania,Fiji,31/10/2021,0.743,28.6,0,no data
+FIN,Europe,Finland,31/10/2021,0.938,42.8,303.1345653,mortality a little bit higher
+FRA,Europe,France,31/10/2021,0.901,42,1022.796713,mortality a little bit higher
+PYF,Oceania,French Polynesia,31/10/2021,,32.7,0,no data
+GAB,Africa,Gabon,31/10/2021,0.703,23.1,0,no data
+GMB,Africa,Gambia,31/10/2021,0.496,17.5,0,no data
+GEO,Asia,Georgia,31/10/2021,0.812,38.7,0,no data
+DEU,Europe,Germany,31/10/2021,0.947,46.6,641.3968761,mortality a little bit higher
+GHA,Africa,Ghana,31/10/2021,0.611,21.1,0,no data
+GIB,Europe,Gibraltar,31/10/2021,,,0,no data
+GRC,Europe,Greece,31/10/2021,0.888,45.3,1733.925242,mortality a little bit higher
+GRL,North America,Greenland,31/10/2021,,,-724.4847718,mortality is lower
+GRD,North America,Grenada,31/10/2021,0.779,29.4,0,no data
+GTM,North America,Guatemala,31/10/2021,0.663,22.9,0,no data
+GGY,Europe,Guernsey,31/10/2021,,,0,no data
+GIN,Africa,Guinea,31/10/2021,0.477,19,0,no data
+GNB,Africa,Guinea-Bissau,31/10/2021,0.48,19.4,0,no data
+GUY,South America,Guyana,31/10/2021,0.682,26.3,0,no data
+HTI,North America,Haiti,31/10/2021,0.51,24.3,0,no data
+OWID_HIC,,High income,31/10/2021,,,0,no data
+HND,North America,Honduras,31/10/2021,0.634,24.9,0,no data
+HKG,Asia,Hong Kong,31/10/2021,0.949,44.8,311.5930516,mortality a little bit higher
+HUN,Europe,Hungary,31/10/2021,0.854,43.4,2640.156975,medium mortality
+ISL,Europe,Iceland,31/10/2021,0.949,37.3,23.59053342,mortality a little bit higher
+IND,Asia,India,31/10/2021,0.645,28.2,0,no data
+IDN,Asia,Indonesia,31/10/2021,0.718,29.3,0,no data
+OWID_INT,,International,31/10/2021,,,0,no data
+IRN,Asia,Iran,31/10/2021,0.783,32.4,2880.692368,medium mortality
+IRQ,Asia,Iraq,31/10/2021,0.674,20,0,no data
+IRL,Europe,Ireland,31/10/2021,0.955,38.7,464.6286583,mortality a little bit higher
+IMN,Europe,Isle of Man,31/10/2021,,,0,no data
+ISR,Asia,Israel,31/10/2021,0.919,30.6,749.531805,mortality a little bit higher
+ITA,Europe,Italy,31/10/2021,0.892,47.9,2585.304592,medium mortality
+JAM,North America,Jamaica,31/10/2021,0.734,31.4,0,no data
+JPN,Asia,Japan,31/10/2021,0.919,48.2,-130.6298772,mortality is lower
+JEY,Europe,Jersey,31/10/2021,,,0,no data
+JOR,Asia,Jordan,31/10/2021,0.729,23.2,0,no data
+KAZ,Asia,Kazakhstan,31/10/2021,0.825,30.6,3813.612012,hight mortality
+KEN,Africa,Kenya,31/10/2021,0.601,20,0,no data
+KIR,Oceania,Kiribati,31/10/2021,0.63,23.2,0,no data
+OWID_KOS,Europe,Kosovo,31/10/2021,,,3367.122773,hight mortality
+KWT,Asia,Kuwait,31/10/2021,0.806,33.7,0,no data
+KGZ,Asia,Kyrgyzstan,31/10/2021,0.697,26.3,1995.369283,medium mortality
+LAO,Asia,Laos,31/10/2021,0.613,24.4,0,no data
+LVA,Europe,Latvia,31/10/2021,0.866,43.9,2743.535658,medium mortality
+LBN,Asia,Lebanon,31/10/2021,0.744,31.1,1957.438976,medium mortality
+LSO,Africa,Lesotho,31/10/2021,0.527,22.2,0,no data
+LBR,Africa,Liberia,31/10/2021,0.48,19.2,0,no data
+LBY,Africa,Libya,31/10/2021,0.724,29,0,no data
+LIE,Europe,Liechtenstein,31/10/2021,0.919,,1097.9244,mortality a little bit higher
+LTU,Europe,Lithuania,31/10/2021,0.882,43.5,5002.933236,hight mortality
+OWID_LIC,,Low income,31/10/2021,,,0,no data
+OWID_LMC,,Lower middle income,31/10/2021,,,0,no data
+LUX,Europe,Luxembourg,31/10/2021,0.916,39.7,-36.38861147,mortality is lower
+MAC,Asia,Macao,31/10/2021,,39.2,406.4454101,mortality a little bit higher
+MDG,Africa,Madagascar,31/10/2021,0.528,19.6,0,no data
+MWI,Africa,Malawi,31/10/2021,0.483,18.1,0,no data
+MYS,Asia,Malaysia,31/10/2021,0.81,29.9,0,no data
+MDV,Asia,Maldives,31/10/2021,0.74,30.6,0,no data
+MLI,Africa,Mali,31/10/2021,0.434,16.4,0,no data
+MLT,Europe,Malta,31/10/2021,0.895,42.4,659.7558613,mortality a little bit higher
+MHL,Oceania,Marshall Islands,31/10/2021,0.704,,0,no data
+MRT,Africa,Mauritania,31/10/2021,0.546,20.3,0,no data
+MUS,Africa,Mauritius,31/10/2021,0.804,37.4,-148.1041724,mortality is lower
+MEX,North America,Mexico,31/10/2021,0.779,29.3,4642.579406,hight mortality
+FSM,Oceania,Micronesia (country),31/10/2021,0.62,23,0,no data
+MDA,Europe,Moldova,31/10/2021,0.75,37.6,3356.837992,hight mortality
+MCO,Europe,Monaco,31/10/2021,,,3248.987854,medium mortality
+MNG,Asia,Mongolia,31/10/2021,0.737,28.6,-5.586790185,mortality is lower
+MNE,Europe,Montenegro,31/10/2021,0.829,39.1,4193.449258,hight mortality
+MSR,North America,Montserrat,31/10/2021,,,0,no data
+MAR,Africa,Morocco,31/10/2021,0.686,29.6,0,no data
+MOZ,Africa,Mozambique,31/10/2021,0.456,17.7,0,no data
+MMR,Asia,Myanmar,31/10/2021,0.583,29.1,0,no data
+NAM,Africa,Namibia,31/10/2021,0.646,22,0,no data
+NRU,Oceania,Nauru,31/10/2021,,,0,no data
+NPL,Asia,Nepal,31/10/2021,0.602,25,0,no data
+NLD,Europe,Netherlands,31/10/2021,0.944,43.2,1185.855036,mortality a little bit higher
+NCL,Oceania,New Caledonia,31/10/2021,,33.4,0,no data
+NZL,Oceania,New Zealand,31/10/2021,0.931,37.9,-544.5447984,mortality is lower
+NIC,North America,Nicaragua,31/10/2021,0.66,27.3,0,no data
+NER,Africa,Niger,31/10/2021,0.394,15.1,0,no data
+NGA,Africa,Nigeria,31/10/2021,0.539,18.1,0,no data
+NIU,Oceania,Niue,31/10/2021,,,0,no data
+OWID_NAM,,North America,31/10/2021,,,0,no data
+MKD,Europe,North Macedonia,31/10/2021,0.774,39.1,6101.905207,hight mortality
+OWID_CYN,Asia,Northern Cyprus,31/10/2021,,,0,no data
+NOR,Europe,Norway,31/10/2021,0.957,39.7,-38.9525158,mortality is lower
+OWID_OCE,,Oceania,31/10/2021,,,0,no data
+OMN,Asia,Oman,31/10/2021,0.813,30.7,806.834507,mortality a little bit higher
+PAK,Asia,Pakistan,31/10/2021,0.557,23.5,0,no data
+PLW,Oceania,Palau,31/10/2021,0.826,,0,no data
+PSE,Asia,Palestine,31/10/2021,0.708,20.4,0,no data
+PAN,North America,Panama,31/10/2021,0.815,29.7,1712.486104,mortality a little bit higher
+PNG,Oceania,Papua New Guinea,31/10/2021,0.555,22.6,0,no data
+PRY,South America,Paraguay,31/10/2021,0.728,26.5,2693.347218,medium mortality
+PER,South America,Peru,31/10/2021,0.777,29.1,6403.691432,hight mortality
+PHL,Asia,Philippines,31/10/2021,0.718,25.2,1831.368383,medium mortality
+POL,Europe,Poland,31/10/2021,0.88,41.8,3132.944414,medium mortality
+PRT,Europe,Portugal,31/10/2021,0.864,46.2,1825.977636,mortality a little bit higher
+QAT,Asia,Qatar,31/10/2021,0.848,31.9,305.2696378,mortality a little bit higher
+ROU,Europe,Romania,31/10/2021,0.828,43,4733.494314,hight mortality
+RUS,Europe,Russia,31/10/2021,0.824,39.6,6110.397812,hight mortality
+RWA,Africa,Rwanda,31/10/2021,0.543,20.3,0,no data
+SHN,Africa,Saint Helena,31/10/2021,,,0,no data
+KNA,North America,Saint Kitts and Nevis,31/10/2021,0.779,,0,no data
+LCA,North America,Saint Lucia,31/10/2021,0.759,34.9,0,no data
+SPM,North America,Saint Pierre and Miquelon,31/10/2021,,,0,no data
+VCT,North America,Saint Vincent and the Grenadines,31/10/2021,0.738,31.8,0,no data
+WSM,Oceania,Samoa,31/10/2021,0.715,22,0,no data
+SMR,Europe,San Marino,31/10/2021,,,3522.493384,hight mortality
+STP,Africa,Sao Tome and Principe,31/10/2021,0.625,18.7,0,no data
+SAU,Asia,Saudi Arabia,31/10/2021,0.854,31.9,0,no data
+SEN,Africa,Senegal,31/10/2021,0.512,18.7,0,no data
+SRB,Europe,Serbia,31/10/2021,0.806,41.2,5875.73657,hight mortality
+SYC,Africa,Seychelles,31/10/2021,0.796,36.2,0,no data
+SLE,Africa,Sierra Leone,31/10/2021,0.452,19.1,0,no data
+SGP,Asia,Singapore,31/10/2021,0.938,42.4,187.142438,mortality a little bit higher
+SXM,North America,Sint Maarten (Dutch part),31/10/2021,,,0,no data
+SVK,Europe,Slovakia,31/10/2021,0.86,41.2,3387.481259,hight mortality
+SVN,Europe,Slovenia,31/10/2021,0.917,44.5,1837.955322,medium mortality
+SLB,Oceania,Solomon Islands,31/10/2021,0.567,20.8,0,no data
+SOM,Africa,Somalia,31/10/2021,,16.8,0,no data
+ZAF,Africa,South Africa,31/10/2021,0.709,27.3,3835.015745,hight mortality
+OWID_SAM,,South America,31/10/2021,,,0,no data
+KOR,Asia,South Korea,31/10/2021,0.916,43.4,22.6955623,mortality a little bit higher
+SSD,Africa,South Sudan,31/10/2021,0.433,19.2,0,no data
+ESP,Europe,Spain,31/10/2021,0.904,45.5,2024.425561,medium mortality
+LKA,Asia,Sri Lanka,31/10/2021,0.782,34.1,0,no data
+SDN,Africa,Sudan,31/10/2021,0.51,19.7,0,no data
+SUR,South America,Suriname,31/10/2021,0.738,29.6,0,no data
+SWE,Europe,Sweden,31/10/2021,0.945,41,884.4841897,mortality a little bit higher
+CHE,Europe,Switzerland,31/10/2021,0.955,43.1,1046.527024,mortality a little bit higher
+SYR,Asia,Syria,31/10/2021,0.567,21.7,0,no data
+TWN,Asia,Taiwan,31/10/2021,,42.2,-223.7685269,mortality is lower
+TJK,Asia,Tajikistan,31/10/2021,0.668,23.3,0,no data
+TZA,Africa,Tanzania,31/10/2021,0.529,17.7,0,no data
+THA,Asia,Thailand,31/10/2021,0.777,40.1,671.0855412,mortality a little bit higher
+TLS,Asia,Timor,31/10/2021,0.606,18,0,no data
+TGO,Africa,Togo,31/10/2021,0.515,19.4,0,no data
+TON,Oceania,Tonga,31/10/2021,0.725,22.3,0,no data
+TTO,North America,Trinidad and Tobago,31/10/2021,0.796,36.2,0,no data
+TUN,Africa,Tunisia,31/10/2021,0.74,32.7,0,no data
+TUR,Asia,Turkey,31/10/2021,0.82,31.6,0,no data
+TCA,North America,Turks and Caicos Islands,31/10/2021,,,0,no data
+UGA,Africa,Uganda,31/10/2021,0.544,16.4,0,no data
+UKR,Europe,Ukraine,31/10/2021,0.779,41.4,2860.91769,medium mortality
+ARE,Asia,United Arab Emirates,31/10/2021,0.89,34,0,no data
+GBR,Europe,United Kingdom,31/10/2021,0.932,40.8,1809.649944,mortality a little bit higher
+USA,North America,United States,31/10/2021,0.926,38.3,2601.973499,medium mortality
+OWID_UMC,,Upper middle income,31/10/2021,,,0,no data
+URY,South America,Uruguay,31/10/2021,0.817,35.6,744.1856195,mortality a little bit higher
+UZB,Asia,Uzbekistan,31/10/2021,0.72,28.2,1145.234239,mortality a little bit higher
+VUT,Oceania,Vanuatu,31/10/2021,0.609,23.1,0,no data
+VAT,Europe,Vatican,31/10/2021,,,0,no data
+VEN,South America,Venezuela,31/10/2021,0.711,29,0,no data
+VNM,Asia,Vietnam,31/10/2021,0.704,32.6,0,no data
+WLF,Oceania,Wallis and Futuna,31/10/2021,,,0,no data
+OWID_WRL,,World,31/10/2021,0.737,30.9,0,no data
+YEM,Asia,Yemen,31/10/2021,0.47,20.3,0,no data
+ZMB,Africa,Zambia,31/10/2021,0.584,17.7,0,no data
+ZWE,Africa,Zimbabwe,31/10/2021,0.571,19.6,0,no data
